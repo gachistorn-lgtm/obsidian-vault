@@ -1,0 +1,5 @@
+{
+  "format": "D MMM, dddd",
+  "template": "templates/Daily",
+  "folder": "Задачи"
+}
