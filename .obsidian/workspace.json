@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задачи/24 May, Sunday.md",
+                "file": "aaa1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24 May, Sunday"
+              "title": "aaa1"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "77a29c39e9619544",
   "lastOpenFiles": [
-    "aaa1.md",
     "Задачи/Глобальные задачи.md",
     "Задачи/24 May, Sunday.md",
+    "aaa1.md",
     "Задачи",
     "templates/Daily.md",
     "templates"
