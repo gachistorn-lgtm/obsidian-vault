@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aaa1.md",
+                "file": "Задачи/глобальные задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aaa1"
+              "title": "глобальные задачи"
             }
           }
         ]
@@ -186,12 +186,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "a1f6d96139b371e0",
+  "active": "e257994daf7fc2af",
   "lastOpenFiles": [
+    "Задачи/подумать.md",
+    "Задачи/глобальные задачи.md",
     "фрыррч.md",
-    "Задачи/Глобальные задачи.md",
     "Задачи/24 May, Sunday.md",
-    "aaa1.md",
     "Задачи",
     "templates/Daily.md",
     "templates"
