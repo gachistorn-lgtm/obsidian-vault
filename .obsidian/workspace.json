@@ -11,10 +11,14 @@
             "id": "a1f6d96139b371e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "aaa1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "aaa1"
             }
           }
         ]
@@ -182,8 +186,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e257994daf7fc2af",
+  "active": "a1f6d96139b371e0",
   "lastOpenFiles": [
+    "фрыррч.md",
     "Задачи/Глобальные задачи.md",
     "Задачи/24 May, Sunday.md",
     "aaa1.md",
